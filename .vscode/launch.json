@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Projects/c-projects/todo-list",
-      "program": "c:/Projects/c-projects/todo-list/build/Release/outRelease",
+      "program": "c:/Projects/c-projects/todo-list/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
